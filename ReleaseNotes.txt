@@ -1,0 +1,54 @@
+*----------------------------------------------------------------------------*
+*	+////////	+			+///////+	+///////+	+///////+	+		+	 *
+*	|			|			|		|	|		|	|		|	 +	   +	 *
+*	|			|			|		|	|		|	|		|	  +   +		 *
+*	|////		|			+///////+	+///////+	+///////+	    +		 *
+*	|			|			|		|	|			|				|		 *
+*	|			|			|		|	|			|				|		 *
+*	|			+///////	|		|	|			|				|		 *
+*                                                                            *
+*                                                                            *
+*	+///////+	+///////+	+///////+	+///////+	+///////+	+///////+	 *
+*	|		|	|		|	|		|	|		| 	|		|		|		 *
+*	|		|	|		|	|		|	|		|	|		|		|		 *
+*	+///////+	+///////+	+///////+	+///////+	|		|		|		 *
+*	|			|		|	|	\		|	\		|		|		|		 *
+*	|			|		|	| 	 \		|	 \		|		|		|		 *
+*	|			|		|	|	  \		|	  \		+///////+		|		 *
+*----------------------------------------------------------------------------*
+
+Bienvenue dans Flappy Parrot, le jeu d'arcade addictif !
+Réalisé par Daphné BISSONNIER et Pierre MESTRE, E3FI.
+	
+
+Instructions du jeu :
+	- Enter : démarrer le jeu
+	- G : changer de caméra
+	- P ou Escape : faire pause
+	- Espace : sauter
+	
+	
+Conditions de victoire : faire 250 points sans toucher de tuyau.
+
+Condititon de défaite : toucher un tuyau avec le perroquet.
+
+Répartition des rôles : 
+	- Daphné Bissonnier : Graphic Designer
+	- Pierre Mestre : Développeur et sound Designer
+
+Origine des Assets (tous les assets sont gratuits) :
+	- Murs : https://www.place4geek.com/blog/wp-content/uploads/2011/09/Super-Mario-Bros-BOX-head.jpg
+		License non précisée
+	- Sol : https://assetstore.unity.com/packages/2d/textures-materials/floors/five-seamless-tileable-ground-textures-57060
+		License Extension asset
+	- Perroquet : https://assetstore.unity.com/packages/3d/props/3d-birds-prototype-pack-150502
+		License Extension asset
+	- Musique : https://www.youtube.com/watch?v=HTM6oZp9Jg8
+		License no copyright
+	
+
+Remarques : 
+Si vous avez des latences au niveau du jeu, il faut changer la valeur de FAR (dans ParrotPrefabs > MainCamera).
+les Credits s'affichent lorsque l'on gagne le jeu.
+Le niveau du jeu est progressif car la vitesse augmente au fur et à mesure.
+EN amélioration on pourrait ajouter une animation au niveau des ailes du perroquet, ainsi qu'un décor infini.
